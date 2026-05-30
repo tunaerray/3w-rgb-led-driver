@@ -17,3 +17,15 @@ This board was designed to control the color output of a 3W RGB LED by adjusting
      
       - Underwater visibility is limited and colors shift significantly with depth. By dynamically adjusting the LED color via PWM, the AUV's camera can capture more accurate color data, improving the reliability of the image processing and object detection algorithms.
       - 
+
+
+## Images
+
+### PCB Front
+![PCB Front](pcb_front.jpeg)
+
+### PCB Back
+![PCB Back](pcb_back.jpeg)
+
+### PCB Layout
+![PCB Layout](pcb_layout.jpeg)
