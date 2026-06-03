@@ -1,0 +1,8 @@
+*.lck
+*.bak
+fp-info-cache
+*-backups/
+rgbleddriver-backups/
+
+gerber/*
+!gerber/*.zip
